@@ -379,6 +379,7 @@ span {
   z-index: 98;
   top: 223px;
   left: 26px;
+  width: 200px;
 }
 
 .triagle {
@@ -400,6 +401,7 @@ span {
   z-index: 96;
   left: 540px;
   top: 480px;
+  width: 100px;
 }
 
 .line {
